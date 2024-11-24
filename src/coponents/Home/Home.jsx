@@ -19,6 +19,7 @@ export default function Home() {
     <>
     
     <h1 className='demo'>counter :{counter}</h1>
+    <p>hello world</p>
     <button onClick={updateCounter} className='bg-teal-600 p-3 rounded-lg' >Click</button>
     </>
   )
